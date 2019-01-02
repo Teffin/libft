@@ -1,0 +1,4 @@
+make - create libft.a
+make clean - delete *.o files
+make fclean - [clean] and delete libft.a
+make re - [fclean] and create again
