@@ -6,7 +6,7 @@
 #    By: hharrold <marvin@42.fr>                    +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2018/11/21 10:39:56 by hharrold          #+#    #+#              #
-#    Updated: 2019/01/02 06:20:38 by hharrold         ###   ########.fr        #
+#    Updated: 2019/01/03 03:51:27 by hharrold         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -30,7 +30,8 @@ SRC = ./srcs/ft_memset.c ./srcs/ft_bzero.c ./srcs/ft_memcpy.c \
 ./srcs/ft_lstdel.c ./srcs/ft_lstadd.c ./srcs/ft_lstiter.c ./srcs/ft_lstmap.c \
 ./srcs/ft_numlen.c ./srcs/ft_strupper.c ./srcs/ft_strlower.c \
 ./srcs/ft_strnlen.c ./srcs/ft_lstsize.c ./srcs/ft_strcmpi.c \
-./srcs/ft_strncmpi.c ./srcs/ft_lsteadd.c ./srcs/ft_lstfrdel.c ./srcs/ft_sqrt.c
+./srcs/ft_strncmpi.c ./srcs/ft_lsteadd.c ./srcs/ft_lstfrdel.c \
+./srcs/ft_sqrt.c ./srcs/get_next_line.c \
 
 HEAD = ./includes/
 
